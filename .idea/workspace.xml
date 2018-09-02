@@ -2,970 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c81376-6de1-4d54-a9b4-541977f2b377" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/README.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/README.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/ant-contrib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/junit.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/merge/jzlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/merge/xpp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/META-INF/smack-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/META-INF/smack.providers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/message.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/nav_left_blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/nav_right_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/photo_portrait.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/question_and_answer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/trafficlight_green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/trafficlight_off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/trafficlight_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/unknown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/build/resources/images/warning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/changelog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/connections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/debugging.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/dataforms.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/disco.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/filetransfer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/intro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/invitation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/messageevents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/muc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/privatedata.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/rosterexchange.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/extensions/xhtml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/gettingstarted.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/images/debugwindow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/images/enhanceddebugger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/images/roster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/images/smacklogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/messaging.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/overview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/privacy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/processing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/properties.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/providers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/roster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/documentation/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/AccountManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/Chat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ChatManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ChatManagerListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ConnectionConfiguration.SecurityMode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ConnectionConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ConnectionCreationListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ConnectionListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/MessageListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PacketCollector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PacketInterceptor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PacketListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PrivacyList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PrivacyListListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/PrivacyListManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/ReconnectionManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/Roster.SubscriptionMode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/Roster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/RosterEntry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/RosterGroup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/RosterListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/SASLAuthentication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/SmackConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/XMPPConnection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/XMPPException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/ConsoleDebugger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/LiteDebugger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/SmackDebugger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/debugger/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/AndFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/FromContainsFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/FromMatchesFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/IQTypeFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/MessageTypeFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/NotFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/OrFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/PacketExtensionFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/PacketFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/PacketIDFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/PacketTypeFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/ThreadFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/ToContainsFilter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/filter/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Authentication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Bind.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/DefaultPacketExtension.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/IQ.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/IQ.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Message.Body.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Message.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Packet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/PacketExtension.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Presence.Mode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Presence.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Presence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Privacy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/PrivacyItem.PrivacyRule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/PrivacyItem.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/PrivacyItem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Registration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/RosterPacket.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/RosterPacket.ItemStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/RosterPacket.ItemType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/RosterPacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/Session.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/StreamError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/XMPPError.Condition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/XMPPError.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/XMPPError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/packet/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/IQProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/PacketExtensionProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/PrivacyProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/ProviderManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/provider/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/ProxyException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/ProxyInfo.ProxyType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/ProxyInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/Socks4ProxySocketFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/Socks5ProxySocketFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/proxy/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLAnonymous.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLCramMD5Mechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLDigestMD5Mechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLExternalMechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLGSSAPIMechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLMechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/SASLPlainMechanism.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/sasl/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/Base64.InputStream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/Base64.OutputStream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/Base64.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/Cache.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/DNSUtil.HostAddress.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/DNSUtil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/ObservableReader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/ObservableWriter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/PacketParserUtils.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/ReaderListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/StringUtils.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/WriterListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smack/util/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ChatState.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ChatStateListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ChatStateManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/DefaultMessageEventRequestListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/Form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/FormField.Option.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/FormField.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/GroupChatInvitation.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/GroupChatInvitation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/LastActivityManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/MessageEventManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/MessageEventNotificationListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/MessageEventRequestListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/MultipleRecipientInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/MultipleRecipientManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/NodeInformationProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/OfflineMessageHeader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/OfflineMessageManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/PEPListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/PEPManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/PrivateDataManager.PrivateDataIQProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/PrivateDataManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/RemoteRosterEntry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ReportedData.Column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ReportedData.Field.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ReportedData.Row.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ReportedData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/RosterExchangeListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/RosterExchangeManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/ServiceDiscoveryManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/SharedGroupManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/XHTMLManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/XHTMLText.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/BookmarkManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/BookmarkedConference.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/BookmarkedURL.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/Bookmarks.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/Bookmarks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/SharedBookmark.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/bookmark/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommand.Action.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommand.SpecificErrorCondition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommand.Status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommand.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommandManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommandNote.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/AdHocCommandNote.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/LocalCommand.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/LocalCommandFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/RemoteCommand.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/commands/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/debugger/EnhancedDebugger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/debugger/EnhancedDebuggerWindow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/debugger/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/debugger/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/debugger/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FaultTolerantNegotiator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransfer.Error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransfer.Status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransfer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransferListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransferManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransferNegotiator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransferNegotiatorManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/FileTransferRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/IBBTransferNegotiator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/IncomingFileTransfer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/OutgoingFileTransfer.NegotiationProgress.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/OutgoingFileTransfer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiatorManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/StreamNegotiator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/filetransfer/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/Affiliate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/DeafOccupantInterceptor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/DefaultParticipantStatusListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/DefaultUserStatusListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/DiscussionHistory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/HostedRoom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/InvitationListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/InvitationRejectionListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/MultiUserChat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/Occupant.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/ParticipantStatusListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/RoomInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/SubjectUpdatedListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/UserStatusListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/muc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/AdHocCommandData.SpecificError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/AdHocCommandData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Bytestream.Activate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Bytestream.Mode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Bytestream.StreamHost.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Bytestream.StreamHostUsed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Bytestream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/ChatStateExtension.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/ChatStateExtension.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DataForm.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DataForm.ReportedData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DataForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DefaultPrivateData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DelayInformation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DiscoverInfo.Feature.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DiscoverInfo.Identity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DiscoverInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DiscoverItems.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/DiscoverItems.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/IBBExtensions.Close.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/IBBExtensions.Data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/IBBExtensions.Open.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/IBBExtensions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/LastActivity.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/LastActivity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCAdmin.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCAdmin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCInitialPresence.History.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCInitialPresence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCOwner.Destroy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCOwner.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCOwner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.Decline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.Destroy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.Invite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.Status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MUCUser.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MessageEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MultipleAddresses.Address.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/MultipleAddresses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/OfflineMessageInfo.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/OfflineMessageInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/OfflineMessageRequest.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/OfflineMessageRequest.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/OfflineMessageRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/PEPEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/PEPItem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/PEPPubSub.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/PrivateData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/RosterExchange.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/SharedGroupsInfo.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/SharedGroupsInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/StreamInitiation.Feature.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/StreamInitiation.File.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/StreamInitiation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/VCard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/Version.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/XHTMLExtension.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/packet/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.BadActionError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.BadLocaleError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.BadPayloadError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.BadSessionIDError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.MalformedActionError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.SessionExpiredError.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/BytestreamsProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/DataFormProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/DelayInformationProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/DiscoverInfoProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/DiscoverItemsProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/IBBProviders.Close.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/IBBProviders.Data.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/IBBProviders.Open.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/IBBProviders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/MUCAdminProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/MUCOwnerProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/MUCUserProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/MessageEventProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/MultipleAddressesProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/PEPProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/PrivateDataProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/RosterExchangeProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/StreamInitiationProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/VCardProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/XHTMLExtensionProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/provider/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/UserSearch.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/UserSearch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/UserSearchManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/search/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/MetaData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/QueueUser.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/WorkgroupInvitation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/WorkgroupInvitationListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/Agent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/AgentRoster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/AgentRosterListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/AgentSession.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/InvitationRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/Offer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/OfferConfirmation.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/OfferConfirmation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/OfferConfirmationListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/OfferContent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/OfferListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/QueueUsersListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/RevokedOffer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/TranscriptManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/TranscriptSearchManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/TransferRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/UserRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/WorkgroupQueue.Status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/WorkgroupQueue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/agent/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/forms/WorkgroupForm.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/forms/WorkgroupForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/forms/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/forms/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/forms/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/AgentChatHistory.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/AgentChatHistory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/AgentChatSession.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/ChatMetadata.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/ChatMetadata.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/history/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/Macro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/MacroGroup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/Macros.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/Macros.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/macros/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/notes/ChatNotes.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/notes/ChatNotes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/notes/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/notes/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/ext/notes/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentInfo.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatus.ChatInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatus.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatusRequest.Item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatusRequest.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentStatusRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentWorkgroups.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/AgentWorkgroups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/DepartQueuePacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/MetaDataProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/MonitorPacket.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/MonitorPacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OccupantsInfo.OccupantInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OccupantsInfo.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OccupantsInfo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OfferRequestProvider.OfferRequestPacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OfferRequestProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OfferRevokeProvider.OfferRevokePacket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/OfferRevokeProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueDetails.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueDetails.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueOverview.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueOverview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueUpdate.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/QueueUpdate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomInvitation.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomInvitation.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomInvitation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomTransfer.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomTransfer.Type.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/RoomTransfer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/SessionID.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/SessionID.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/Transcript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/TranscriptProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/TranscriptSearch.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/TranscriptSearch.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/Transcripts.AgentDetail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/Transcripts.TranscriptSummary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/Transcripts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/TranscriptsProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/UserID.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/UserID.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/WorkgroupInformation.Provider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/WorkgroupInformation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/packet/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/ChatSetting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/ChatSettings.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/ChatSettings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/GenericSettings.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/GenericSettings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/OfflineSettings.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/OfflineSettings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/SearchSettings.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/SearchSettings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/SoundSettings.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/SoundSettings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/WorkgroupProperties.InternalProvider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/WorkgroupProperties.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/settings/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/user/QueueListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/user/Workgroup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/user/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/user/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/user/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/ListenerEventDispatcher.TripletContainer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/ListenerEventDispatcher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/MetaDataUtils.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/ModelUtil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/org/jivesoftware/smackx/workgroup/util/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/resources/inherit.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/Speex.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/commons-logging-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/commons-logging-adapters-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/commons-logging-api-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/jmf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/jspeex-0.9.7-jfcom.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/lib/junit.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/build/merge/jstun.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/ContentNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleActionEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleNegotiatorState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateActive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateEnded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStatePending.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/JingleSessionStateUnknown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/SmackLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/CreatedJingleSessionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleMediaInfoListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleMediaListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleSessionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleSessionRequestListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/listeners/JingleTransportListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/ContentInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/JingleMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/JingleMediaSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/MediaNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/MediaReceivedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/media/PayloadType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/JMFInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/demo/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioChannel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioFormatUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioMediaSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/AudioReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jmf/JmfMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jspeex/AudioMediaSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/jspeex/SpeexMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/multi/MultiMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/ScreenShareMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/ScreenShareSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/AbstractBufferedImageOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/DefaultDecoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/DefaultEncoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageDecoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageEncoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/ImageTransmitter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/OctTreeQuantizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/PixelUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/QuantizeFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/Quantizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/sshare/api/WholeImageFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/test/TestMediaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/mediaimpl/test/TestMediaSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/BasicResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/BasicTransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/BridgedResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/BridgedTransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/DatagramListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/FixedResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/FixedTransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/HttpServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/ICECandidate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/ICEResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/ICETransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/JingleTransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/RTPBridge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/ResultListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/STUN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/STUNResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/STUNTransportManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TcpUdpBridgeClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TcpUdpBridgeServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TestResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TransportCandidate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TransportNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TransportResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/jingle/nat/TransportResolverListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/Jingle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleContentDescription.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleContentInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleDescription.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/JingleTransport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/packet/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentDescriptionProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentInfoProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleContentProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleDescriptionProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/JingleTransportProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/org/jivesoftware/smackx/provider/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/jingle/extension/source/overview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/smack.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/smackx-debug.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/smackx-jingle.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/smackx.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/AccountManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/Chat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ChatManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ChatManagerListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ConnectionConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ConnectionCreationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ConnectionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/MessageListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/NonSASLAuthentication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/OpenTrustManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PacketCollector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PacketInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PacketListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PacketReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PacketWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PrivacyList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PrivacyListListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/PrivacyListManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ReconnectionManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/Roster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/RosterEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/RosterGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/RosterListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/SASLAuthentication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/ServerTrustManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/SmackConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/UserAuthentication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/XMPPConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/XMPPException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/debugger/ConsoleDebugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/debugger/LiteDebugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/debugger/SmackDebugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/debugger/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/AndFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/FromContainsFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/FromMatchesFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/IQTypeFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/MessageTypeFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/NotFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/OrFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/PacketExtensionFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/PacketFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/PacketIDFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/PacketTypeFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/ThreadFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/ToContainsFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/filter/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Authentication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Bind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/DefaultPacketExtension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/IQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Packet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/PacketExtension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Presence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Privacy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/PrivacyItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Registration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/RosterPacket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/Session.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/StreamError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/XMPPError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/packet/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/provider/IQProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/provider/PacketExtensionProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/provider/PrivacyProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/provider/ProviderManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/provider/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/DirectSocketFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/HTTPProxySocketFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/ProxyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/ProxyInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/Socks4ProxySocketFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/proxy/Socks5ProxySocketFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLAnonymous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLCramMD5Mechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLDigestMD5Mechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLExternalMechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLGSSAPIMechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLMechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/SASLPlainMechanism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/sasl/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/Base64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/Cache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/DNSUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/ObservableReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/ObservableWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/PacketParserUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/ReaderListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/WriterListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/AbstractEmptyIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/AbstractHashedMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/AbstractKeyValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/AbstractMapEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/AbstractReferenceMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/DefaultMapEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/EmptyIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/EmptyMapIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/IterableMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/KeyValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/MapIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/ReferenceMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/collections/ResettableIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smack/util/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/ChatState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/ChatStateListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/ChatStateManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/DefaultMessageEventRequestListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/Form.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/FormField.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/GroupChatInvitation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/LastActivityManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/MessageEventManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/MessageEventNotificationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/MessageEventRequestListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/MultipleRecipientInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/MultipleRecipientManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/NodeInformationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/OfflineMessageHeader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/OfflineMessageManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/PEPListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/PEPManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/PrivateDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/RemoteRosterEntry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/ReportedData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/RosterExchangeListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/RosterExchangeManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/ServiceDiscoveryManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/SharedGroupManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/XHTMLManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/XHTMLText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/bookmark/BookmarkManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/bookmark/BookmarkedConference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/bookmark/BookmarkedURL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/bookmark/Bookmarks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/bookmark/SharedBookmark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/AdHocCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/AdHocCommandManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/AdHocCommandNote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/LocalCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/LocalCommandFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/commands/RemoteCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/debugger/EnhancedDebugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/debugger/EnhancedDebuggerWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/debugger/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FaultTolerantNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransferListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransferManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransferNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransferNegotiatorManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/FileTransferRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/IBBTransferNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/IncomingFileTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/OutgoingFileTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiatorManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/filetransfer/StreamNegotiator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/Affiliate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/ConnectionDetachedPacketCollector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/DeafOccupantInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/DefaultParticipantStatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/DefaultUserStatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/DiscussionHistory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/HostedRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/InvitationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/InvitationRejectionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/MultiUserChat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/Occupant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/PacketMultiplexListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/ParticipantStatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/RoomInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/RoomListenerMultiplexor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/SubjectUpdatedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/UserStatusListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/muc/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/AdHocCommandData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/Bytestream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/ChatStateExtension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/DataForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/DefaultPrivateData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/DelayInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/DiscoverInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/DiscoverItems.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/IBBExtensions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/LastActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MUCAdmin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MUCInitialPresence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MUCOwner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MUCUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MessageEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/MultipleAddresses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/OfflineMessageInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/OfflineMessageRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/PEPEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/PEPItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/PEPPubSub.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/PrivateData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/RosterExchange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/SharedGroupsInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/StreamInitiation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/VCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/Version.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/XHTMLExtension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/packet/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/BytestreamsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/DataFormProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/DelayInformationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/DiscoverInfoProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/DiscoverItemsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/IBBProviders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/MUCAdminProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/MUCOwnerProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/MUCUserProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/MessageEventProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/MultipleAddressesProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/PEPProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/PrivateDataProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/RosterExchangeProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/StreamInitiationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/VCardProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/XHTMLExtensionProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/provider/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/search/SimpleUserSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/search/UserSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/search/UserSearchManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/MetaData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/QueueUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/WorkgroupInvitation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/WorkgroupInvitationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/Agent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/AgentRoster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/AgentRosterListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/AgentSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/InvitationRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/Offer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/OfferConfirmation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/OfferConfirmationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/OfferContent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/OfferListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/QueueUsersListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/RevokedOffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/TranscriptManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/TranscriptSearchManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/TransferRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/UserRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/agent/WorkgroupQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/forms/WorkgroupForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/history/AgentChatHistory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/history/AgentChatSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/history/ChatMetadata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/macros/Macro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/macros/MacroGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/macros/Macros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/ext/notes/ChatNotes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/AgentInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/AgentStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/AgentStatusRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/AgentWorkgroups.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/DepartQueuePacket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/MetaDataProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/MonitorPacket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/OccupantsInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/OfferRequestProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/OfferRevokeProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/QueueDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/QueueOverview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/QueueUpdate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/RoomInvitation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/RoomTransfer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/SessionID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/Transcript.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/TranscriptProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/TranscriptSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/Transcripts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/TranscriptsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/UserID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/packet/WorkgroupInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/ChatSetting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/ChatSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/GenericSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/OfflineSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/SearchSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/SoundSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/settings/WorkgroupProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/user/QueueListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/user/Workgroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/util/ListenerEventDispatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/util/MetaDataUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/org/jivesoftware/smackx/workgroup/util/ModelUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/source/overview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/ChatTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/FloodTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/IQTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/LoginTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/MessageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/PacketReaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/PresenceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/PrivacyClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/ReconnectionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/RosterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/AndFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/FromContainsFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/NotFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/OrFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/PacketIDFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/PacketTypeFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/filter/ToContainsFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/packet/MockPacket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/packet/MockPacketFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/packet/PrivacyProviderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/packet/PrivacyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/test/SmackTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/util/CacheTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/util/StringUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smack/util/XMPPErrorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/CompressionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/FileTransferTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/FormTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/GroupChatInvitationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/LastActivityManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/MessageEventManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/MessageEventTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/MultipleRecipientManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/OfflineMessageManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/RosterExchangeManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/RosterExchangeTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/ServiceDiscoveryManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/SharedGroupsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/VCardTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/VersionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/XHTMLManagerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/XHTMLSupportTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/commands/AdHocCommandDiscoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/muc/MultiUserChatCreationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/muc/MultiUserChatTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/packet/MessageEventTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/packet/RosterExchangeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/develop/smack_src_3_1_0/test/org/jivesoftware/smackx/packet/XHTMLExtensionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$SingleMessageListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$SingleMessageListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auctionsniper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auctionsniper/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -977,18 +25,29 @@
     <session id="-771544673">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="88" />
         </counts>
       </usages-collector>
     </session>
@@ -996,10 +55,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java">
+        <entry file="file://$PROJECT_DIR$/src/auctionsniper/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="137">
+              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+              <folding>
+                <element signature="e#2900#2901#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1008,6 +70,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" />
+        <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" />
+        <option value="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" />
+        <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" />
+        <option value="$PROJECT_DIR$/src/auctionsniper/Main.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -1021,6 +94,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1061,12 +135,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535483938572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535901899298" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/develop" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -1118,44 +191,97 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AuctionSniperEndToEndTest - 2018.08.28 at 23h 18m 59s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionSniperEndToEndTest - 2018.09.02 at 19h 10m 57s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionSniperEndToEndTest - 2018.09.02 at 19h 14m 41s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionSniperEndToEndTest - 2018.09.02 at 19h 18m 38s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="89" column="7" lean-forward="true" selection-start-line="84" selection-start-column="6" selection-end-line="89" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3367#3397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="119">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auctionsniper/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+          <folding>
+            <element signature="e#2900#2901#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1216,6 +342,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
