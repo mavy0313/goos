@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c81376-6de1-4d54-a9b4-541977f2b377" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/goos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/ApplicationRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$SingleMessageListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer$SingleMessageListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/goos/test/endtoend/auctionsniper/FakeAuctionServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auctionsniper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auctionsniper/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,29 +15,30 @@
     <session id="-771544673">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="88" />
+          <entry key="java" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="88" />
+          <entry key="JAVA" value="117" />
         </counts>
       </usages-collector>
     </session>
@@ -55,12 +46,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/auctionsniper/Main.java">
+        <entry file="file://$PROJECT_DIR$/test/unit/test/auctionsniper/xmpp/AuctionMessageTranslatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+            <state relative-caret-position="102">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="41" />
               <folding>
-                <element signature="e#2900#2901#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,17 +59,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" />
         <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java" />
         <option value="$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java" />
         <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/ApplicationRunner.java" />
         <option value="$PROJECT_DIR$/src/auctionsniper/Main.java" />
+        <option value="$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java" />
+        <option value="$PROJECT_DIR$/test/unit/test/auctionsniper/xmpp/AuctionMessageTranslatorTest.java" />
+        <option value="$PROJECT_DIR$/src/auctionsniper/xmpp/AuctionMessageTranslator.java" />
       </list>
     </option>
   </component>
@@ -94,6 +94,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,34 +117,62 @@
             <path>
               <item name="goos" type="b2602c69:ProjectViewProjectNode" />
               <item name="goos" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goos" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="end-to-end" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goos" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="end-to-end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="auctionsniper" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auctionsniper" type="462c0819:PsiDirectoryNode" />
+              <item name="xmpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="end-to-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+              <item name="xmpp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535901899298" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536034039797" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/develop" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="auctionsniper" />
+      <recent name="test.auctionsniper.xmpp" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="auctionsniper.xmpp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,7 +186,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AuctionMessageTranslatorTest">
+    <configuration name="AuctionMessageTranslatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="goos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.auctionsniper.xmpp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.auctionsniper.xmpp" />
+      <option name="MAIN_CLASS_NAME" value="test.auctionsniper.xmpp.AuctionMessageTranslatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AuctionSniperEndToEndTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="goos" />
       <extension name="coverage">
@@ -172,8 +215,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.AuctionSniperEndToEndTest" />
+      <item itemvalue="JUnit.AuctionMessageTranslatorTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuctionMessageTranslatorTest" />
         <item itemvalue="JUnit.AuctionSniperEndToEndTest" />
       </list>
     </recent_temporary>
@@ -204,11 +252,23 @@
     <history-entry file="AuctionSniperEndToEndTest - 2018.09.02 at 19h 18m 38s.xml">
       <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AuctionSniperEndToEndTest - 2018.09.02 at 19h 22m 27s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionSniperEndToEndTest - 2018.09.04 at 07h 33m 04s.xml">
+      <configuration name="AuctionSniperEndToEndTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionMessageTranslatorTest - 2018.09.04 at 08h 04m 31s.xml">
+      <configuration name="AuctionMessageTranslatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuctionMessageTranslatorTest - 2018.09.04 at 08h 07m 01s.xml">
+      <configuration name="AuctionMessageTranslatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21785174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,24 +300,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="89" column="7" lean-forward="true" selection-start-line="84" selection-start-column="6" selection-end-line="89" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3367#3397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/auctionsniper/ui/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -281,6 +323,50 @@
           <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
           <folding>
             <element signature="e#2900#2901#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/AuctionSniperEndToEndTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/end-to-end/test/endtoend/auctionsniper/FakeAuctionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="108" column="29" selection-start-line="108" selection-start-column="29" selection-end-line="108" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auctionsniper/AuctionEventListener.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/auctionsniper/xmpp/AuctionMessageTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/test/auctionsniper/xmpp/AuctionMessageTranslatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
