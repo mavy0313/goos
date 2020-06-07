@@ -1,6 +1,6 @@
 # IntelliJ ignores
-.idea
+.idea/
 *.iml
 
 # build dirs
-out
+out/
